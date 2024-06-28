@@ -211,9 +211,3 @@ See `btk help` to learn about available commands and basic usage.
 
 See `btk help <command>` to learn more about a command and its options.
 
-License
--------
-
-This program is free software; you can redistribute it and/or modify it
-under the terms of the GNU General Public License. See [LICENSE](LICENSE) for
-more details.
