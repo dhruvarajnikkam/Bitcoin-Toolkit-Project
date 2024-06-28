@@ -20,7 +20,7 @@ Table of Contents
 
 1. [Download and Install](#download-and-install)
 2. [Usage](#usage)
-3. [License](#license)
+   
 
 Download and Install
 --------------------
